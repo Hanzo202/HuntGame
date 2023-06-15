@@ -129,11 +129,11 @@ MonoBehaviour:
   speed: 13
   torqueSpeed: 20
   xSpawnDirection: 0
+  whereThrow: {x: 0, y: 0, z: 0}
   minY: 0.6
   maxY: 1
   hits: 1
-  particleDestroy: {fileID: 19800004, guid: fb7b0526ade434043b350a180d741cf3, type: 3}
-  kit: {fileID: 0}
+  particleDestroy: {fileID: 19800000, guid: c5e10d819f769ff4d898df0613ad86bb, type: 3}
 --- !u!1001 &8981092694378701094
 PrefabInstance:
   m_ObjectHideFlags: 0
